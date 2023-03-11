@@ -12,9 +12,9 @@ Pour moi, la programmation est bien plus qu'un simple travail, c'est une vérita
 
 ###### Languages WEB :
 
-> [![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=f1652a)](https://fr.wikipedia.org/wiki/HTML5)
-> [![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=2465f1)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
-> [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f1652a)](https://fr.wikipedia.org/wiki/JavaScript)
+> [![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=f2672c)](https://fr.wikipedia.org/wiki/HTML5)
+> [![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=30aadd)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
+> [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f1c026)](https://fr.wikipedia.org/wiki/JavaScript)
 
 > 
 ### Frameworks
