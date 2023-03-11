@@ -18,10 +18,9 @@ Pour moi, la programmation est bien plus qu'un simple travail, c'est une vérita
 
 ###### Languages AUTRES :
 
-> [![lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=f2672c)](https://fr.wikipedia.org/wiki/HTML5)
+> [![lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=000080)](https://fr.wikipedia.org/wiki/Lua)
 
 
-> 
 ### Frameworks
 > [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://fr.wikipedia.org/wiki/Nodejs)
 >
