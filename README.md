@@ -1,6 +1,6 @@
 <h3 align="center">Salut, je suis Slay's 👋</h3>
 
-<h4><u>Qui suis-je ?</u></h4>
+__<h4>Qui suis-je ?</h4>__
 
 ### Les langages que je travaille:
 > [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
