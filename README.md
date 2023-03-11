@@ -1,4 +1,4 @@
-#<h3 align="center">Salut, je suis Slay's 👋</h3>
+# <p align="center">Salut, je suis Slay's 👋</p>
 
 __<h4>Qui suis-je ?</h4>__
 
