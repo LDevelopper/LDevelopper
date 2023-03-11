@@ -16,6 +16,11 @@ Pour moi, la programmation est bien plus qu'un simple travail, c'est une vérita
 > [![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=30aadd)](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
 > [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f1c026)](https://fr.wikipedia.org/wiki/JavaScript)
 
+###### Languages AUTRES :
+
+> [![lua](https://img.shields.io/badge/Lua-323330?style=for-the-badge&logo=lua&logoColor=f2672c)](https://fr.wikipedia.org/wiki/HTML5)
+
+
 > 
 ### Frameworks
 > [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://fr.wikipedia.org/wiki/Nodejs)
