@@ -1,16 +1,12 @@
-### Hi there 👋
+### Salut :wave:
+ :mailbox: Pour me contacter vous pouvez par mail professionnel.slays@gmail.com ou sur discord Slay's#0082
 
-<!--
-**Slays-Officiel/Slays-Officiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Les langages que je travaille:
+> [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 
+### Frameworks
+> [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+>
+### Tools
+> [![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
