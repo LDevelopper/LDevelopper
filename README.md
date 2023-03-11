@@ -10,6 +10,8 @@ Pour moi, la programmation est bien plus qu'un simple travail, c'est une vérita
 
 ### Les langages que je travaille:
 
+###### Languages WEB :
+
 > [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://fr.wikipedia.org/wiki/JavaScript)
 > [![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=f1652a)](https://fr.wikipedia.org/wiki/HTML5)
 
