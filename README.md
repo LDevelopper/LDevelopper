@@ -1,8 +1,8 @@
-# <p align="center">Salut, je suis Slay's 👋</p>
+# <p align="center">Salut, je m'appelle Lucas 👋</p>
 
 ### Qui suis-je ?
 
-Je suis Slay's, un jeune développeur passionné depuis maintenant 5 ans. J'ai commencé à m'intéresser à la programmation alors que j'étais encore à l'école primaire, et depuis, je n'ai jamais cessé d'apprendre et de découvrir de nouvelles technologies.
+Je suis un jeune développeur passionné depuis maintenant 5 ans. J'ai commencé à m'intéresser à la programmation alors que j'étais encore à l'école primaire, et depuis, je n'ai jamais cessé d'apprendre et de découvrir de nouvelles technologies.
 
 ### La programation c'est quoi pour moi ?
 
